@@ -5,7 +5,7 @@ A bash script to verify if the strongSwan IPsec tunnel is established. If not, t
 
 ## Overview
 
-This script (`check_tunnel_status.sh`) is designed to monitor the status of an IPSec tunnel using strongSwan. It ensures that the tunnel remains established, and if it detects that the tunnel is down, it attempts to bring it back up automatically.
+This script (`check_tunnel_status.sh`) is designed to check the status of an IPSec tunnel using strongSwan. It ensures that the tunnel remains established, and if it detects that the tunnel is down, it attempts to bring it back up automatically.
 
 ## Features
 
